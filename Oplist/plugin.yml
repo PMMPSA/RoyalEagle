@@ -1,0 +1,9 @@
+name: Oplist
+main: oplist\Main
+version: 1.0.2
+api: [2.0.0]
+load: POSTWORLD
+description: show op list.
+commands:
+ opls:
+  description: show op list.

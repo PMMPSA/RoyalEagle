@@ -1,0 +1,17 @@
+#ChatLogin plugin default configuration
+---
+#show ChatLogin prefix
+show-prefix: false
+#Register message
+register-message: "&bNhập mật khẩu vào khung chat để đăng ký"
+#Require password confirmation for registration
+password-confirm-required: true
+#Register confirmation message
+register-confirm-message: "&bNhập mật khẩu vào khung chat lần nữa để đăng ký"
+#No register permissions message
+no-register-permissions: "&cNhập mật khẩu để đăng ký"
+#Login message
+login-message: "&bNhập mật khẩu vào khung chat để đăng nhập"
+#No login permissions message
+no-login-permissions: "&cMật khẩu sai đăng nhập lại"
+...

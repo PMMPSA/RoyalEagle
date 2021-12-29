@@ -1,0 +1,618 @@
+---
+Dark:
+  #items. name and enchantments are optional.
+  #if damage is not specified, 0 will be used
+  #if count is not specified, 1 will be used
+  items:
+  - id: 268
+    damage: 0
+    count: 1
+    name: §l§b-= §a  Dark §b =-
+    enchantment: 
+      #name: level
+      weapon_sharpness: 3
+      weapon_unbreaking: 3
+  - id: 260
+    damage: 0
+    count: 5
+    name: 
+  - id: 320
+    damage: 0
+    count: 5
+  #helmet
+  #optional. you can remove this if you don't want a helmet
+  helmet:
+    id: 302
+    name:
+    enchantment:
+      armor_protection: 3
+  #chestplate
+  #optional. you can remove this if you don't want a chestplate
+  chestplate:
+    id: 303
+    name:
+    enchantment:
+      armor_protection: 3
+  #leggings
+  #optional. you can remove this if you don't want leggings
+  leggings:
+    id: 304
+    name:
+    enchantment:
+      armor_protection: 3
+  #boots
+  #optional. you can remove this if you don't want boots
+  boots:
+    id: 305
+    name:
+    enchantment:
+      armor_protection: 3
+  #cool down time.
+  #when a player gets this kit, he will not be able to get this again until the cool down ends
+  #this is optional. you can remove this if you don't want a cooldown
+  cooldown:
+    hours: 0
+    minutes: 0
+  #commands to execute when a player gets a kit
+  #use {player} to specify the player name
+  #optional. you can remove this if you don't want any command to be executed
+  commands:
+  - "tell {player} §eKit Starter For You !"
+  #effects to give to the player
+  #optional. you can remove this if you don't want effects to come with this kit
+  effects:
+  - "speed:120:2"
+  #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
+  worlds:
+  - "world"
+  #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
+  users:
+  - "dioconsole"
+  - "lucaspet28"
+
+
+
+
+
+Royal:
+  #items. name and enchantments are optional.
+  #if damage is not specified, 0 will be used
+  #if count is not specified, 1 will be used
+  items:
+  - id: 272
+    damage: 0
+    count: 1
+    name: §l§b-= §a Royal §b=-
+    enchantment: 
+      #name: level
+      weapon_sharpness: 5
+      weapon_unbreaking: 5
+  - id: 322
+    damage: 0
+    count: 10
+    name: 
+  - id: 320
+    damage: 0
+    count: 20
+  #helmet
+  #optional. you can remove this if you don't want a helmet
+  helmet:
+    id: 298
+    name:
+    enchantment:
+      armor_protection: 5
+  #chestplate
+  #optional. you can remove this if you don't want a chestplate
+  chestplate:
+    id: 299
+    name:
+    enchantment:
+      armor_protection: 5
+  #leggings
+  #optional. you can remove this if you don't want leggings
+  leggings:
+    id: 300
+    name:
+    enchantment:
+      armor_protection: 5
+  #boots
+  #optional. you can remove this if you don't want boots
+  boots:
+    id: 301
+    name:
+    enchantment:
+      armor_protection: 5
+  #cool down time.
+  #when a player gets this kit, he will not be able to get this again until the cool down ends
+  #this is optional. you can remove this if you don't want a cooldown
+  cooldown:
+    hours: 0
+    minutes: 0
+  #commands to execute when a player gets a kit
+  #use {player} to specify the player name
+  #optional. you can remove this if you don't want any command to be executed
+  commands:
+  - "tell {player} §eKit Starter For You !"
+  #effects to give to the player
+  #optional. you can remove this if you don't want effects to come with this kit
+  effects:
+  - "speed:120:2"
+  #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
+  worlds:
+  - "world"
+  #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
+  users:
+  - "dioconsole"
+  - "lucaspet28"
+
+
+
+
+
+
+Saiyan:
+  #items. name and enchantments are optional.
+  #if damage is not specified, 0 will be used
+  #if count is not specified, 1 will be used
+  items:
+  - id: 283
+    damage: 0
+    count: 1
+    name: §l§b-= §a Saiyan §b=-
+    enchantment:
+      #name: level
+      weapon_sharpness: 10
+      weapon_unbreaking: 10
+  - id: 322
+    damage: 0
+    count: 3
+    name:
+  - id: 393
+    damage: 0
+    count: 5
+    name: 
+  - id: 
+    damage: 0
+    count: 1
+  #helmet
+  #optional. you can remove this if you don't want a helmet
+  helmet:
+    id: 314
+    name:
+    enchantment:
+      armor_protection: 10
+  #chestplate
+  #optional. you can remove this if you don't want a chestplate
+  chestplate:
+    id: 315
+    name:
+    enchantment:
+      armor_protection: 10
+  #leggings
+  #optional. you can remove this if you don't want leggings
+  leggings:
+    id: 316
+    name:
+    enchantment:
+      armor_protection: 10
+  #boots
+  #optional. you can remove this if you don't want boots
+  boots:
+    id: 317
+    name:
+    enchantment:
+      armor_protection: 10
+  #cool down time.
+  #when a player gets this kit, he will not be able to get this again until the cool down ends
+  #this is optional. you can remove this if you don't want a cooldown
+  cooldown:
+    hours: 0
+    minutes: 0
+  #commands to execute when a player gets a kit
+  #use {player} to specify the player name
+  #optional. you can remove this if you don't want any command to be executed
+  commands:
+  #effects to give to the player
+  #optional. you can remove this if you don't want effects to come with this kit
+  effects:
+  - "speed:120:2"
+  - "jump:120:2"
+  - "strength:120:2"
+  #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
+  worlds:
+  - "world"
+  #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
+  users:
+  - "dioconsole"
+  - "lucaspet28"
+
+
+
+
+
+
+
+King:
+  #items. name and enchantments are optional.
+  #if damage is not specified, 0 will be used
+  #if count is not specified, 1 will be used
+  items:
+  - id: 267
+    damage: 0
+    count: 1
+    name: §l§b-= §e King §b=-
+    enchantment: 
+      #name: level
+      weapon_sharpness: 15
+      weapon_unbreaking: 15
+  - id: 322
+    damage: 0
+    count: 5
+    name: 
+  - id: 364
+    damage: 0
+    count: 15
+  - id: 466
+    damage: 0
+    count: 5
+    name: 
+  #helmet
+  #optional. you can remove this if you don't want a helmet
+  helmet:
+    id: 306
+    name:
+    enchantment:
+      armor_protection: 15
+      weapon_unbreaking: 15
+  #chestplate
+  #optional. you can remove this if you don't want a chestplate
+  chestplate:
+    id: 307
+    name:
+    enchantment:
+      armor_protection: 15
+      weapon_unbreaking: 15
+  #leggings
+  #optional. you can remove this if you don't want leggings
+  leggings:
+    id: 308
+    name:
+    enchantment:
+      armor_protection: 15
+      weapon_unbreaking: 15
+  #boots
+  #optional. you can remove this if you don't want boots
+  boots:
+    id: 309
+    name:
+    enchantment:
+      armor_protection: 15
+      weapon_unbreaking: 15
+  #cool down time.
+  #when a player gets this kit, he will not be able to get this again until the cool down ends
+  #this is optional. you can remove this if you don't want a cooldown
+  cooldown:
+    hours: 0
+    minutes: 0
+  #commands to execute when a player gets a kit
+  #use {player} to specify the player name
+  #optional. you can remove this if you don't want any command to be executed
+  commands:
+  - "tell {player} Thank For Playing Server !"
+  #effects to give to the player
+  #optional. you can remove this if you don't want effects to come with this kit
+  effects:
+  - "speed:120:2"
+  - "jump:120:2"
+  - "strength:120:2"
+  #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
+  worlds:
+  - "world"
+  #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
+  users:
+  - "dioconsole"
+  - "lucaspet28"
+
+
+
+
+
+
+TG:
+  #items. name and enchantments are optional.
+  #if damage is not specified, 0 will be used
+  #if count is not specified, 1 will be used
+  items:
+  - id: 276
+    damage: 100
+    count: 1
+    name: §l§b-= §a Thánh Giống §b=-
+    enchantment: 
+      #name: level
+      weapon_sharpness: 50
+      weapon_unbreaking: 20
+      weapon_fire_aspect: 6
+  - id: 322
+    damage: 20
+    count: 5
+    name: 
+  - id: 466
+    damage: 20
+    count: 2
+  - id: 261
+    damage: 20
+    count: 1
+    name: §l§b-= §a KIT-TG §b=-
+    enchantment: 
+      #name: level
+      bow_power: 20
+      weapon_unbreaking: 20
+      bow_flame: 6
+  - id: 262
+    damage: 0
+    count: 64
+  #helmet
+  #optional. you can remove this if you don't want a helmet
+  helmet:
+    id: 310
+    name:
+    enchantment:
+      armor_protection: 50
+  #chestplate
+  #optional. you can remove this if you don't want a chestplate
+  chestplate:
+    id: 311
+    name:
+    enchantment:
+      armor_protection: 50
+  #leggings
+  #optional. you can remove this if you don't want leggings
+  leggings:
+    id: 312
+    name:
+    enchantment:
+      armor_protection: 50
+  #boots
+  #optional. you can remove this if you don't want boots
+  boots:
+    id: 313
+    name:
+    enchantment:
+      armor_protection: 50
+  #cool down time.
+  #when a player gets this kit, he will not be able to get this again until the cool down ends
+  #this is optional. you can remove this if you don't want a cooldown
+  cooldown:
+    hours: 0
+    minutes: 0
+  #commands to execute when a player gets a kit
+  #use {player} to specify the player name
+  #optional. you can remove this if you don't want any command to be executed
+  commands:
+  - "tell {player} Thank For Playing Server !"
+  #effects to give to the player
+  #optional. you can remove this if you don't want effects to come with this kit
+  effects:
+  - "speed:120:5"
+  - "jump:120:2"
+  - "strength:120:2"
+  - "absorption:120:5"
+  - "invisibility:10:2"
+  - "health_boots:120:2"
+  #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
+  worlds:
+  - "world"
+  #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
+  users:
+  - "dioconsole"
+  - "lucaspet28"
+
+
+
+
+PB:
+  #items. name and enchantments are optional.
+  #if damage is not specified, 0 will be used
+  #if count is not specified, 1 will be used
+  items:
+  - id: 276
+    damage: 200
+    count: 1
+    name: §o§l§b§kiiiii§r §l§c PrimeBest §l§b§kiiiii§r
+    enchantment: 
+      #name: level
+      weapon_sharpness: 100
+      weapon_unbreaking: 50
+      weapon_knockback: 50
+      weapon_fire_aspect: 50
+  - id: 368
+    damage: 59
+    count: 16
+    name: 
+  - id: 466
+    damage: 50
+    count: 5
+  - id: 261
+    damage: 0
+    count: 1
+    name: §l§b-= §a Bow PB §b=-
+    enchantment: 
+      #name: level
+      bow_power: 50
+      weapon_unbreaking: 50
+      bow_flame: 50
+  - id: 262
+    damage: 0
+    count: 128
+  #helmet
+  #optional. you can remove this if you don't want a helmet
+  helmet:
+    id: 310
+    name: §a§kiii§r §eSet PB §a§kiii
+    enchantment:
+      armor_protection: 50
+      weapon_unbreaking: 50
+      armor_fire_protection: 50
+      armor_thorns: 20
+  #chestplate
+  #optional. you can remove this if you don't want a chestplate
+  chestplate:
+    id: 311
+    name: §a§kiii§r §eSet PB §a§kiii
+    enchantment:
+      armor_protection: 50
+      weapon_unbreaking: 50
+      armor_fire_protection: 50
+      armor_thorns: 20
+  #leggings
+  #optional. you can remove this if you don't want leggings
+  leggings:
+    id: 312
+    name: §a§kiii§r §eSet PB §a§kiii
+    enchantment:
+      armor_protection: 50
+      weapon_unbreaking: 50
+      armor_fire_protection: 50
+      armor_thorns: 20
+  #boots
+  #optional. you can remove this if you don't want boots
+  boots:
+    id: 313
+    name: §a§kiii§r §eSet PB §a§kiii
+    enchantment:
+      armor_protection: 50
+      weapon_unbreaking: 50
+      armor_fire_protection: 50
+      armor_thorns: 20
+  #cool down time.
+  #when a player gets this kit, he will not be able to get this again until the cool down ends
+  #this is optional. you can remove this if you don't want a cooldown
+  cooldown:
+    hours: 0
+    minutes: 0
+  #commands to execute when a player gets a kit
+  #use {player} to specify the player name
+  #optional. you can remove this if you don't want any command to be executed
+  commands:
+  - "tell {player} Thank For Playing Server !"
+  #effects to give to the player
+  #optional. you can remove this if you don't want effects to come with this kit
+  effects:
+  - "speed:120:5"
+  - "jump:120:2"
+  - "strength:120:2"
+  - "absorption:120:5"
+  - "invisibility:10:2"
+  - "health_boots:120:2"
+  #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
+  worlds:
+  - "world"
+  #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
+  users:
+  - "dioconsole"
+  - "lucaspet28"
+
+
+
+
+RE:
+  #items. name and enchantments are optional.
+  #if damage is not specified, 0 will be used
+  #if count is not specified, 1 will be used
+  items:
+  - id: 276
+    damage: 200
+    count: 1
+    name: §o§l§b§kiiiii§r §l§c RoyalEagle §l§b§kiiiii§r
+    enchantment: 
+      #name: level
+      weapon_sharpness: 100
+      weapon_unbreaking: 100
+      weapon_knockback: 100
+      weapon_fire_aspect: 100
+  - id: 368
+    damage: 59
+    count: 16
+    name: 
+  - id: 466
+    damage: 50
+    count: 5
+  - id: 261
+    damage: 0
+    count: 1
+    name: §l§b-= §a Bow PB §b=-
+    enchantment: 
+      #name: level
+      bow_power: 50
+      weapon_unbreaking: 50
+      bow_flame: 50
+  - id: 262
+    damage: 0
+    count: 128
+  #helmet
+  #optional. you can remove this if you don't want a helmet
+  helmet:
+    id: 310
+    name: §a§kiii§r §eGiáp RE §a§kiii
+    enchantment:
+      armor_protection: 50
+      weapon_unbreaking: 50
+      armor_fire_protection: 50
+      armor_thorns: 20
+  #chestplate
+  #optional. you can remove this if you don't want a chestplate
+  chestplate:
+    id: 311
+    name: §a§kiii§r §eGiáp RE §a§kiii
+    enchantment:
+      armor_protection: 50
+      weapon_unbreaking: 50
+      armor_fire_protection: 50
+      armor_thorns: 20
+  #leggings
+  #optional. you can remove this if you don't want leggings
+  leggings:
+    id: 312
+    name: §a§kiii§r §eGiáp RE §a§kiii
+    enchantment:
+      armor_protection: 50
+      weapon_unbreaking: 50
+      armor_fire_protection: 50
+      armor_thorns: 20
+  #boots
+  #optional. you can remove this if you don't want boots
+  boots:
+    id: 313
+    name: §a§kiii§r §eGiáp RE §a§kiii
+    enchantment:
+      armor_protection: 50
+      weapon_unbreaking: 50
+      armor_fire_protection: 50
+      armor_thorns: 20
+  #cool down time.
+  #when a player gets this kit, he will not be able to get this again until the cool down ends
+  #this is optional. you can remove this if you don't want a cooldown
+  cooldown:
+    hours: 0
+    minutes: 0
+  #commands to execute when a player gets a kit
+  #use {player} to specify the player name
+  #optional. you can remove this if you don't want any command to be executed
+  commands:
+  - "tell {player} Thank For Playing Server !"
+  #effects to give to the player
+  #optional. you can remove this if you don't want effects to come with this kit
+  effects:
+  - "speed:120:5"
+  - "jump:120:2"
+  - "strength:120:2"
+  - "absorption:120:5"
+  - "invisibility:10:2"
+  - "health_boots:120:2"
+  #if you do not use pureperms, use 'worlds' to specify in which worlds you want this kit to be used
+  worlds:
+  - "world"
+  #if you do not use pureperms, use 'users' to specify which players will be able to get this kit
+  users:
+  - "dioconsole"
+  - "lucaspet28"

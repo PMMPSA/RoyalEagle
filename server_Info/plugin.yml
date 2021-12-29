@@ -1,0 +1,25 @@
+name: Aro_Info
+description: Info for Server
+author: LGC
+version: 0.1
+main: Aro\Main
+api: 2.0.0
+commands:
+ helps:
+        description: helps
+ law:
+        description: law
+ giapoint:
+        description: giapoint
+ giavip:
+        description: giavip
+ lag:
+        description: lag
+ info:
+        description: info
+ tocao:
+        description: tocao
+ thongbao:
+        description: thongbao
+ infom:
+        description: infom

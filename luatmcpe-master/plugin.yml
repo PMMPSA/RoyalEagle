@@ -1,0 +1,10 @@
+name: luat
+version: 1.0.0
+api: 3.0.0
+author: Duy2Phong
+main: D2P\Main
+commands:
+  luat:
+    description: Để biết luật của server
+  rules:
+    description: Để biết luật của server

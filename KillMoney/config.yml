@@ -1,0 +1,10 @@
+#KillMoney v1.5 Config File
+#
+#Economy Plugin. Options: PocketMoney, Economy
+Economy-Plugin: Economy
+#
+#Money to Killer
+Money: 50
+#
+#Message to Killer
+Message: "Usted ha optenido $@coins por matar ha @player!"

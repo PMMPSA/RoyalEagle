@@ -1,0 +1,15 @@
+name: Bank
+main: Minuha\Bank
+version: "1.0"
+api: [3.0.0-ALPHA9]
+
+commands:
+ nganhang:
+  permission: nganhang.cmd
+  description: Ngân Hàng
+  usage: /nganhang <amount>
+
+permissions:
+ nganhang.cmd:
+  default: true
+  description: Bank command.

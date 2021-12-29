@@ -1,0 +1,5 @@
+---
+Clear-msg: Se elimino @count de lagg
+PreClear-msg: En un minuto de eliminara el lagg
+Clear-time: 240
+...
